@@ -26,7 +26,7 @@ X      - Right
 RETURN - Jump
 ```
 
-## Alternate controls
+### Alternate controls
 
 ```
 C      - Left
@@ -50,6 +50,8 @@ ESCAPE - Continue Game
 R      - Restart Level
 Q      - Quit Game
 ```
+
+Tip: skip scrolling text messages by pressing `SPACE`, `L` or `RETURN`.
 
 ---
 
